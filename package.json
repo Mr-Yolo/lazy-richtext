@@ -1,0 +1,23 @@
+{
+  "name": "lazy-richtext",
+  "version": "0.0.1",
+  "description": "richtext lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yolozyb/lazy-richtext.git"
+  },
+  "keywords": [
+    "richtext",
+    "lazyload"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yolozyb/lazy-richtext/issues"
+  },
+  "homepage": "https://github.com/yolozyb/lazy-richtext#readme"
+}
